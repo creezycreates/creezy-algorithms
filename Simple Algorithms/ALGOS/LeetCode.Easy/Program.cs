@@ -1,6 +1,6 @@
 ﻿using LeetCode.Easy.Palindromes;
 
-//TestPalindromeValidator();
+TestPalindromeValidator();
 
 
 
